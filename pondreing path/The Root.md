@@ -2,7 +2,7 @@
 - This challenge introduces the idea of absolute paths in a Unix-like filesystem.<br>
 - An absolute path starts from the `root directory /`and defines the complete location of a file or program in the filesystem.
 
-In this case, a program named pwn has been placed directly under the root directory `/`, and you must run it using its full path to get the flag.
+In this case, a program named `pwn` has been placed directly under the root directory `/`, and you must run it using its full path to get the flag.
 
 **Hint** :<br>
 - Absolute paths start with `/`.
