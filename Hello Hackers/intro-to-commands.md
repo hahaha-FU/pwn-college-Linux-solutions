@@ -6,13 +6,13 @@ In this  challenge, you're introduced to how Linux commands work. You type a com
 
 ---
 
-##  Solution
+
 
 ###  Command Explanation
 
 The challenge shows how typing a command (like `whoami`) runs it and prints a result. You're asked to do the same thing with a different command: `hello`. This will trigger the flag to display.
 
-###  Command Used
+##  Solution
 
 ```bash
 hello
