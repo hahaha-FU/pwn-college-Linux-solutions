@@ -1,4 +1,4 @@
-### Challenge Summary:
+###  Summary:
 This challenge reinforces the concept of absolute paths, and introduces slightly deeper directory nesting.
 
 You're told that:
