@@ -1,4 +1,4 @@
-### Challenge Summary:
+###  Summary:
 - This challenge introduces the idea of absolute paths in a Unix-like filesystem.<br>
 - An absolute path starts from the `root directory /`and defines the complete location of a file or program in the filesystem.
 
