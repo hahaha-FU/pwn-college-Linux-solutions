@@ -17,3 +17,15 @@ In this example :
 - **echo** is the command
 - **hello** is the argument
 - The output is simply the word **hello** printed to the terminal
+
+### command explation 
+- *echo* : Prints text to the screen
+
+### soluation 
+
+In this case:
+
+```bash
+hacker@dojo:~$ echo Hello Hackers!
+Hello Hackers!
+
