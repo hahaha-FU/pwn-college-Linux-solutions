@@ -1,4 +1,4 @@
-### Challenge Summary:
+###  Summary:
 
 This challenge teaches you how to navigate the Linux filesystem using the cd (change directory) command.
 Each process, including your terminal shell, operates from a current working directory. You can switch between directories using:
