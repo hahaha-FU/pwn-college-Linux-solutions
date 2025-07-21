@@ -12,4 +12,8 @@ When you type a command into the terminal and press Enter, the shell (the comman
 hacker@dojo:~$ echo Hello
 Hello
 Explanation:
-
+```
+In this example :
+- **echo** is the command
+- **hello** is the argument
+- The output is simply the word **hello** printed to the terminal
