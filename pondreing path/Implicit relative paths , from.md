@@ -1,4 +1,4 @@
-### Challenge Summary:
+###  Summary:
 Imagine your computer is a big house 🏠, and inside this house are rooms (called folders or directories). Each room can have things inside it, like toys (files) or even more rooms.
 
 Now, when you want to go get a toy (run a program), there are two ways you can describe where it is:
