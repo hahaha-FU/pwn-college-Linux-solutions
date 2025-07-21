@@ -21,7 +21,7 @@ In this example :
 ### command explation 
 - *echo* : Prints text to the screen
 
-### soluation 
+### solution 
 
 In this case:
 
