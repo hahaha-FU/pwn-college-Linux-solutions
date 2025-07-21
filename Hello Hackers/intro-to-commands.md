@@ -1,8 +1,18 @@
-<img width="729" height="119" alt="image" src="https://github.com/user-attachments/assets/d463c527-9138-4966-bffc-bf2272df0962" />
+##  Summary
 
-# Linux Luminarium – pwn.college Challenges
-This repository contains my solutions to the [Linux Luminarium](https://pwn.college/linux-luminarium) challenge set from pwn.college.
-The Linux Luminarium is a series of hands-on exercises designed to teach essential Linux skills, including command-line usage, file manipulation, scripting, permissions, and more.
+In this  challenge, you're introduced to how Linux commands work. You type a command, press Enter, and the shell runs it. For example, `whoami` returns your username. The goal here is to simply run the `hello` command to receive the flag.
 
-This repo serves both as a record of my progress and a reference for others learning Linux fundamentals through practical challenges. Each solution is organized by challenge name, with relevant commands, notes, and explanations when necessary.
+⚠️ Commands are **case-sensitive**, so make sure to type `hello` exactly — not `HELLO` or any other variation.
 
+---
+
+##  Solution
+
+###  Command Explanation
+
+The challenge shows how typing a command (like `whoami`) runs it and prints a result. You're asked to do the same thing with a different command: `hello`. This will trigger the flag to display.
+
+### 🧪 Command Used
+
+```bash
+hello
