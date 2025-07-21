@@ -27,7 +27,3 @@ The path you give must be 3 characters or less before expansion — like `~(any 
 ```bash
 /challenge/run ~/x
 ```
-- To Read the Flag:
-```bash
-cat ~/x
-```
