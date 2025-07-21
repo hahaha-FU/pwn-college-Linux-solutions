@@ -8,7 +8,7 @@ All challenge binaries live in the `/challenge` directory.
 The program for this challenge is named run.
 
 ### Solution:
-- Absolute paths always start from the root `/.`
+- Absolute paths always start from the root `/`.
 - Just run the following command:
 
 ```bash
