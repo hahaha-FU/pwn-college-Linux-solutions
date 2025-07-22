@@ -20,7 +20,7 @@ _________
 ### solution
 - Run the `find` command to look for files named `flag`:
 ```bash
-find / -name flag 2>/dev/null
+find / -name flag 
 ```
 *The `2>/dev/null` part hides the permission errors to keep things clean*.
 - You’ll get a list of paths like:
