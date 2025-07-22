@@ -1,3 +1,4 @@
+### summary 
 Imagine you walk into a room (a **folder**) and you don’t know what’s inside.
 You want to look around and see what’s there.
 
