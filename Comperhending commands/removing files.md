@@ -1,4 +1,5 @@
-Imagine you have a piece of paper on your desk called `delete_me`, and someone tells you:
+### summary 
+magine you have a piece of paper on your desk called `delete_me`, and someone tells you:
 “Hey! This one’s trash — throw it away!”
 
 In Linux, the command to delete a file is `rm`, which means: “Remove this file”.
