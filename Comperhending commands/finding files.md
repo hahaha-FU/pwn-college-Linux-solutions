@@ -22,7 +22,6 @@ _________
 ```bash
 find / -name flag 
 ```
-*The `2>/dev/null` part hides the permission errors to keep things clean*.
 - You’ll get a list of paths like:
 ```bash
 /usr/share/doc/somewhere/flag
