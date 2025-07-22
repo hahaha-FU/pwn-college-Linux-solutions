@@ -10,7 +10,7 @@ But the machine **isn’t looking at the real flag** — it's reading a **fake f
 Your job?
 **Trick the machine** by **replacing** that fake file with a symlink (shortcut) to the **real flag** at `/flag`.
 
-That way, when the machine opens `/home/hacker/not-the-flag`, it actually ends up reading the real flag from `/flag`! 🤫
+That way, when the machine opens `/home/hacker/not-the-flag`, it actually ends up reading the real flag from `/flag`! 
 __________
 ### solution 
 - First, remove the fake `not-the-flag` file:
