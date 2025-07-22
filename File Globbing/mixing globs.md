@@ -1,5 +1,5 @@
 ### summary
-**You want a pattern that matches only these 3 files — not more, not less.
+**You want a pattern that matches only these 3 files — not more, not less**.
 
 You must:
 
