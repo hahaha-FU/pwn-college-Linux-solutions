@@ -4,7 +4,6 @@
 
 # Pwn College - Linux Dojo Solutions
 
-This repository contains complete, beginner-friendly writeups and solutions for the **Linux Dojo** section of the [Pwn College](https://pwn.college/) CTF training platform.
 
 Each challenge is explained step-by-step with:
 - 🧠 A summary of the idea
